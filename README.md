@@ -6,7 +6,7 @@ This script automates an idle host scanning based on Scapy.
 With this script we can thus discover the open ports on a target machine by Idle Host Scanning.
 
 ## Idle Host Scanning
-!(https://upload.wikimedia.org/wikipedia/commons/e/ef/Idlescan.png)
+! (https://upload.wikimedia.org/wikipedia/commons/e/ef/Idlescan.png)
 
 As demonstrated by the diagram above, the target hosts responds differently to the Zombie depending on port state. 
 If the probed port is open, the target sends a SYN|ACK to the Zombie. 
